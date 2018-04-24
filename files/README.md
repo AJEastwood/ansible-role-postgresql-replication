@@ -1,5 +1,5 @@
-SQL scripts useful for checking replication status.
+SQL scripts useful for checking replication status:
 
-su - postgres
+* su - postgres
 
-psql -f <script>
+* psql -f <script>
